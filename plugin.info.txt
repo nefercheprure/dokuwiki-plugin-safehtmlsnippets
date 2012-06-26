@@ -1,0 +1,7 @@
+base   safehtmlsnippets
+author nefercheprure
+email  nefercheprure <hidden@>
+date   2012-06-26
+name   safehtmlsnippets plugin
+desc   Provides a way to inserr safe HTML snippets even for htmlok=false wikis.
+url    http://localhost/
